@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "python.pythonPath": "C:\\Users\\14765\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
